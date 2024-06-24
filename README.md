@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adithya</h1>
 <h3 align="center">A passionate Web developer and A Machine Learning Enthusiast</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adithya311203&label=Profile%20views&color=0e75b6&style=flat" alt="Adithya311203" /> </p>
 - 🌱 I’m currently learning **Node.js and React.js**
 
 - 👯 I’m looking to collaborate on **Web Development and ML**
